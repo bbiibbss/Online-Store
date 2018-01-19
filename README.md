@@ -5,7 +5,7 @@ Aplicação Web criada como parte integrante da avaliação à cadeira de Desenv
 
 Framework utilizada: Yii2
 
-||ING||
+||ENG||
 Web application created as a part of the evaluation in the Web Web Development with Frameworks of the first semester of the second year of the Technical and Professional Higher Course of Web Applications Development of the University of the Azores.
 
 Used framework: Yii2
